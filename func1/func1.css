@@ -1,7 +1,11 @@
 .container{
-    width: 50px;
-    height: 70px;
+    width: 100%;
+    height: 100px;
     background-color: aqua;
-    overflow: hidden;
+    overflow: scroll;
     border-radius: 5px;
+    padding-left: 20px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
 }
